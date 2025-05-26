@@ -1,0 +1,8 @@
+.sidebar {
+    width: 100px;
+    background-color: yellow;
+    height: 100%;
+    margin: 10px;
+    border: 1px solid;
+    box-shadow : 2px 4px rgb(255, 255, 255)
+}
