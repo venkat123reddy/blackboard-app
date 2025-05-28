@@ -11,7 +11,7 @@ function App() {
       <Sidebar>   
       </Sidebar>
      </div>
-     <div class="bodys">
+     <div className="bodys">
       <div>
         <Navigation>  
       </Navigation>
